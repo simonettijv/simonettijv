@@ -16,9 +16,14 @@
 
 ## 📊 GitHub Stats
 
-![João Vitor GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight)
+![João Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight)
+
+</div>
+
 
 
 ---
