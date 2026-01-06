@@ -1,45 +1,61 @@
-# 👋 Hey there! I'm João Vitor Simonetti
+# 👋 Hi! I'm João Vitor Simonetti
 
-💻 *Software Engineering student* and aspiring developer passionate about creating digital solutions.  
-🚀 Focused on learning and building with *Python, **HTML, **CSS, and **JavaScript*.  
-🎯 Looking for *freelance projects* and *internships* to grow my experience and skills.  
+💻 **Software Engineering student** with a strong interest in building practical and scalable digital solutions.  
+🚀 Currently focused on developing skills in **Python, HTML, CSS, and JavaScript**.  
+🎯 Actively seeking **freelance opportunities** and **internships** to gain real-world experience and grow professionally.
 
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-simonetti-40b2b938b)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simonetti.jv/)    
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jvsimonetti@outlook.com)
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight&cache_seconds=86400"
-    height="165"
-  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-vitor-simonetti-40b2b938b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/simonetti.jv/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jvsimonetti@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
 </p>
-
-
-
 
 ---
 
 ## 🧠 About Me
 
-✨ Constantly learning and improving through projects and challenges.  
-⚙️ Interested in back-end development and automation.  
-🎨 I also enjoy working on design and web interfaces.  
-☕ Fueled by coffee and curiosity.
+✨ Passionate about continuous learning and problem-solving through hands-on projects.  
+⚙️ Particularly interested in **back-end development**, **automation**, and system logic.  
+🎨 Comfortable working with **UI and web interfaces**, always aiming for clean and user-friendly design.  
+☕ Powered by coffee, curiosity, and consistent practice.
 
 ---
 
-⭐ “Code, learn, repeat.”
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight"
+    height="165"
+  />
+</p>
+
+---
+
+⭐ *"Code. Learn. Improve. Repeat."*
+
