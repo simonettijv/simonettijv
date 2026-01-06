@@ -14,15 +14,20 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight&cache_seconds=86400"
+    height="165"
+  />
+</p>
 
-![João Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonettijv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonettijv&layout=compact&theme=tokyonight)
-
-</div>
 
 
 
